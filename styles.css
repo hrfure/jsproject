@@ -1,0 +1,84 @@
+
+nav {
+   background-color: lightskyblue;
+   font-style: italic;
+   border-color: black;
+   text-align: center;
+   background-image: url(abstract-refreshing-blue-tropical-watercolor-background-illustration-high-resolution-free-image.jpg);
+
+
+}
+
+h1 {
+    font-style: oblique;
+    text-align: center;
+    
+}
+
+iframe {
+    width: 20%;
+    height: 20%;
+    margin: auto;
+   display: flex;
+   object-fit: cover;
+}
+
+body{
+    padding: 20px;
+    margin: 0px;
+    background-color: lightgrey;
+    opacity: 90%;
+    background-image: url(abstract-refreshing-blue-tropical-watercolor-background-illustration-high-resolution-free-image.jpg);
+
+}
+
+.row{
+    padding-left: 10px;
+}
+
+
+.grid-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 175px;
+    margin-left: auto;
+    margin-right: auto;
+    column-gap: 10px;
+    row-gap: 10px;
+    box-sizing: border-box;
+
+}
+
+.item1 {
+   
+    grid-column-start: 2;
+    grid-column end: 3;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    object-fit: cover;
+    display: block;
+    height: auto;
+    
+}
+
+.item2 {
+    grid-column-start: 1;
+    grid-column-end: 1;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    object-fit: cover;
+    display: block;
+    height: 425%;
+    
+   
+    width: 500%;
+   
+}
+
+.item3 {
+    grid-row-start: 2;
+    grid-column-start: 2;
+    grid-column-end: 6;
+}
+
+
