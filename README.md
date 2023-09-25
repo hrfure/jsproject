@@ -1,5 +1,5 @@
 # jsproject
-This project is a simple portfolio website, introducing "Fure," a Norwegian investor and tech enthusiast. The webpage is designed using Bootstrap and contains a navigation bar, images, embedded video, and links to different sections of the portfolio, such as Fure's bio and projects.
+This project is a simple portfolio website, introducing Fure, a Norwegian investor and tech enthusiast. The webpage is designed using Bootstrap and contains a navigation bar, images, embedded video, and links to different sections of the portfolio, such as Fure's bio and projects.
 
 **Layout & Components:**
 **1. Navigation Bar:**
