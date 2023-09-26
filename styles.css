@@ -5,14 +5,11 @@ nav {
    border-color: black;
    text-align: center;
    background-image: url(abstract-refreshing-blue-tropical-watercolor-background-illustration-high-resolution-free-image.jpg);
-
-
 }
 
 h1 {
     font-style: oblique;
     text-align: center;
-    
 }
 
 iframe {
@@ -29,7 +26,6 @@ body{
     background-color: lightgrey;
     opacity: 90%;
     background-image: url(abstract-refreshing-blue-tropical-watercolor-background-illustration-high-resolution-free-image.jpg);
-
 }
 
 .row{
@@ -46,11 +42,9 @@ body{
     column-gap: 10px;
     row-gap: 10px;
     box-sizing: border-box;
-
 }
 
 .item1 {
-   
     grid-column-start: 2;
     grid-column end: 3;
     grid-row-start: 1;
@@ -58,7 +52,6 @@ body{
     object-fit: cover;
     display: block;
     height: auto;
-    
 }
 
 .item2 {
@@ -69,10 +62,7 @@ body{
     object-fit: cover;
     display: block;
     height: 425%;
-    
-   
-    width: 500%;
-   
+    width: 500%; 
 }
 
 .item3 {
